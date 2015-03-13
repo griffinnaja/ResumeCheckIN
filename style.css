@@ -1,0 +1,28 @@
+body {
+  font-family: 'Alegreya', sans-serif;
+  padding: 0;
+  margin: 0;
+}
+h1 {
+ Text-align:"center"
+}
+h4 {
+  text-decoration: underline;
+  font-weight: bold;
+  font-size: 1.4em;
+  margin:0;
+  margin-top: 3px
+  font-family: <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,700' rel='stylesheet' type='text/css'>;
+  color: maroon;
+
+}
+
+#columnwrapper {
+  margin: 0 15%;
+}
+.column {
+  box-sizing: border-box;
+  width:50%;
+  float: left;
+  padding-right: 1.0em;
+}
